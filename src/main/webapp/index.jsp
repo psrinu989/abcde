@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h2>First Jsp Page...... is modified..../h2>
+		<h2>First Jsp Page...... is modified......./h2>
 </body>
 </html>
